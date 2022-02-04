@@ -1,0 +1,19 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "Alcance de una variable dentro del código. Es el que se encarga de definir a qué bloques de código puede acceder una variable. Existen el scope local y el scope global.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josegerstner/platzi-cursoClosuresYScopeJavaScript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josegerstner/platzi-cursoClosuresYScopeJavaScript/issues"
+  },
+  "homepage": "https://github.com/josegerstner/platzi-cursoClosuresYScopeJavaScript#readme"
+}
